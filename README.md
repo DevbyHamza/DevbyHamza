@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning BSCS
 - 💞️ I’m looking to collaborate on web Dev
 - 📫 How to reach me by mail
-bajwa.bajwa6803@gmail.com
+hamza.bajwa.6803@gmail.com
 
 <!---
 DevbyHamza/DevbyHamza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
